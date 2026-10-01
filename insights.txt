@@ -1,0 +1,17 @@
+Cross Vertical Contact Collision:-  the exact same phone number is assigned to two entirely different people across business units.
+
+Phone Number Typos: There is high risk of a data entry typo between two distinct customer accounts because their phone numbers are nearly identical.
+
+
+RERA Column Schema Break: For project KRE-P005 (Kapil Green Meadows), the dataset contains the word "Exempted" instead of an alphanumeric RERA registration code. While legally allowed for certain open plot layouts, this string will cause errors in databases expecting a specific character format unless exception logic is built in.
+
+ 
+Inconsistent Branch Naming Formats: The Branch name fields in the Branch Network use mixed formats. while others include the city district (Kapil Towers, Gachibowli). This lack of standardization will cause system joins to fail against the Master Branch Location tables unless a cleanup script is implemented first.
+
+Strong collection  with Rs 0 outstanding balance. Revenue is balanced across leased(29%),booked(27%),Available(24%) and Sold(20%)
+
+KRE-P005 is the largest project. Top plots generate over 20M each.
+
+25 hours total downtime is approaching critical thresholds, maintenance costs, display high  volatility,
+
+Low contrast color scheme redundant donut charts, and overcrowded label text hinder readability
